@@ -1,4 +1,5 @@
 # Hi, I'm Erland 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap&weight=200&pause=1000&color=0080FF&center=true&vCenter=true&random=false&width=435&lines=Erland+Development;hello%40erland.fi)](https://git.io/typing-svg)
 ### Random social statistics
 ![Discord](https://img.shields.io/discord/859365620402487316?logo=discord&logoColor=white&style=for-the-badge)\
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/erland_yt?style=for-the-badge)\
