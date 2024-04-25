@@ -9,7 +9,7 @@
 
 ### WhatPulse Statistics
 Here are some statistics from my computer. \
-![WhatPulse](https://img.shields.io/whatpulse/keys/user/1420391?style=for-the-badge)![WhatPulse](https://img.shields.io/whatpulse/clicks/user/1420391?style=for-the-badge) ![WhatPulse](https://img.shields.io/whatpulse/uptime/user/1420391?style=for-the-badge) ![WhatPulse](https://img.shields.io/whatpulse/download/user/1420391?style=for-the-badge) ![WhatPulse](https://img.shields.io/whatpulse/upload/user/1420391?style=for-the-badge)
+![WhatPulse](https://img.shields.io/whatpulse/keys/user/1420391?style=for-the-badge)![WhatPulse](https://img.shields.io/whatpulse/clicks/user/1420391?style=for-the-badge)![WhatPulse](https://img.shields.io/whatpulse/uptime/user/1420391?style=for-the-badge)![WhatPulse](https://img.shields.io/whatpulse/download/user/1420391?style=for-the-badge)![WhatPulse](https://img.shields.io/whatpulse/upload/user/1420391?style=for-the-badge)
 
 ### My personal projects
 - My website https://erland.fi
