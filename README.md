@@ -1,5 +1,9 @@
 # Hi, I'm Erland 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap&weight=200&pause=1000&color=0080FF&center=true&vCenter=true&random=false&width=435&lines=Erland+Development;hello%40erland.fi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap&weight=200&pause=1000&color=0080FF&center=true&vCenter=true&random=false&width=435&lines=Erland+Development;hello%40erland.fi)](https://git.io/typing-svg)\
+[![erland.fi](https://img.shields.io/badge/In_English-%2520?style=for-the-badge&label=Visit%20my%20website&labelColor=black&color=grey&link=https%3A%2F%2Ferland.fi%3Flang%3Den)](https://erland.fi?lang=en)\
+[![erland.fi](https://img.shields.io/badge/In_Finnish-%2520?style=for-the-badge&label=Visit%20my%20website&labelColor=black&color=grey&link=https%3A%2F%2Ferland.fi%3Flang%3Dfi)](https://erland.fi?lang=fi)\
+[![erland.fi](https://img.shields.io/badge/In_Swedish-%2520?style=for-the-badge&label=Visit%20my%20website&labelColor=black&color=grey&link=https%3A%2F%2Ferland.fi%3Flang%3Dse)](https://erland.fi?lang=se)\
+[![erland.fi](https://img.shields.io/badge/In_Easy_Finnish-%2520?style=for-the-badge&label=Visit%20my%20website&labelColor=black&color=grey&link=https%3A%2F%2Ferland.fi%3Flang%3Dselko)](https://erland.fi?lang=selko)
 ### Random social statistics
 ![Discord](https://img.shields.io/discord/859365620402487316?logo=discord&logoColor=white&style=for-the-badge)\
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/erland_yt?style=for-the-badge)\
