@@ -10,6 +10,9 @@
 ![Twitch Status](https://img.shields.io/twitch/status/erland_yt_studios?style=for-the-badge)\
 ![GitHub followers](https://img.shields.io/github/followers/erlandyt?style=for-the-badge) Currently 0 ):\
 ![Static Badge](https://img.shields.io/badge/Omega-Mart-what?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI%2FPg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIiA%2BDQo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgdmlld0JveD0iLTEwIDAgNzM0IDEwMDAiPg0KICAgPHBhdGggZmlsbD0iI2ZmZmZmZiINCmQ9Ik01MCA3ODB2LTEzNGgxNTl2LTEwYy05OSAtNDUgLTE1NCAtMTI3IC0xNTQgLTI1NmMwIC0xNzMgMTEyIC0zMTAgMzA3IC0zMTBzMzA3IDEzNyAzMDcgMzEwYzAgMTI5IC01NSAyMTEgLTE1NCAyNTZ2MTBoMTU5djEzNGgtMjY5di0yMDVjNjIgLTE4IDEwNCAtODEgMTA0IC0xNDV2LTgxYzAgLTc1IC01NiAtMTQ0IC0xNDcgLTE0NHMtMTQ3IDY5IC0xNDcgMTQ0djgxYzAgNjQgNDIgMTI3IDEwNCAxNDV2MjA1aC0yNjl6IiAvPg0KPC9zdmc%2BDQo%3D&logoColor=yellow&labelColor=%231ABDEA&color=%23E42D27)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=arttu.erland&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlandyt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-erlandyts-projects.vercel.app/api/top-langs/?username=erlandyt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WhatPulse Statistics
 Here are some statistics from my computer. \
